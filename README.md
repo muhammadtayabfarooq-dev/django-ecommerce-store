@@ -3,9 +3,6 @@
 A full‑featured **Ecommerce web application** built with **Django**.  
 This project demonstrates a complete online shopping system with product management, cart, checkout (via Stripe), and user authentication — ready to be used as a boilerplate for online stores or as a learning resource for Django-based e-commerce.
 
-[Live demo / screenshot / video (if any)](link-to-demo-or-video)  
-
----
 
 ## Table of Contents
 
