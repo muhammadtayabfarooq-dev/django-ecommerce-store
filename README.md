@@ -136,12 +136,3 @@ GitHub: [muhammadtayabfarooq-dev](https://github.com/muhammadtayabfarooq-dev)
 ## **License**
 
 MIT License. See [LICENSE](LICENSE) for details.
-
-```
-
----
-
-If you want, I can now **also make it visually cleaner with badges, features table, and screenshots placeholders** — it will make your GitHub repo **look professional and premium**.  
-
-Do you want me to do that next?
-```
